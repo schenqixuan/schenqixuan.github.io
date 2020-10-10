@@ -1,0 +1,20 @@
+body{
+background-color:green;
+width:960px;
+margin-left:auto;
+margin-right:auto;
+}
+
+h1{
+	color:blue;
+	front-size:18px;
+}
+
+p{
+	color:purple; 
+	fornt-size:12px;
+}
+#para1{
+	color:pink;
+	front-size:9px;
+}
