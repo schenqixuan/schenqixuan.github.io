@@ -8,6 +8,8 @@ margin-right:auto;
 h1{
 	color:blue;
 	front-size:18px;
+	padding: 1px;
+	margin: 10px
 }
 
 p{
@@ -17,4 +19,6 @@ p{
 #para1{
 	color:pink;
 	front-size:9px;
+	margin-top:20px;
+	magin-bottm:18px;
 }
